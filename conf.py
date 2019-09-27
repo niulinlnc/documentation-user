@@ -32,7 +32,7 @@ extensions = [
     'sphinx.ext.todo',
     'odoo',
     'html_domain',
-    # 'demo_link',
+    'demo_link',
     'github_link',
     'embedded_video',
 ]
